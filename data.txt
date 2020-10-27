@@ -1,7 +1,10 @@
 #include <math.h>
+using namespase std;
 
 void main (){
-	
+int x,y;
+x=2;
+y=6;
 
 	return 0;
 }
